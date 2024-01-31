@@ -2,7 +2,7 @@
 
 ## ISIL 2023-2
 
-### Evaluacion Parcial 1
+### Evaluacion Parcial 1 - Arreglos
 
 #### Ejercicio 1
 
@@ -27,4 +27,4 @@ Implementar las funciones sumRows y sumCols
   Genera un arreglo en el que cada elemento i corresponde
   a la suma de los elementos de la columna i de la matriz.
 
-Ingreasar a la carpeta ejercicio-2 y ejecutar npm run test para probar
+Ingresar a la carpeta ejercicio-2 y ejecutar npm run test para probar
